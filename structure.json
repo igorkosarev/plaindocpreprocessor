@@ -1,0 +1,296 @@
+{
+  "globalVars" : {
+    "creator" : {
+      "name" : "creator",
+      "value" : "Igor Kosarev"
+    },
+    "ex" : {
+      "name" : "ex",
+      "value" : "Example text"
+    },
+    "headerName" : {
+      "name" : "headerName",
+      "value" : "# Header"
+    },
+    "twostr" : {
+      "name" : "twostr",
+      "value" : "First <br/> Second"
+    }
+  },
+  "rootItem" : {
+    "fileName" : "input",
+    "name" : "input",
+    "isDirectory" : true,
+    "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input",
+    "items" : {
+      "ADR_repository" : {
+        "fileName" : "ADR_repository",
+        "name" : "ADR_repository",
+        "isDirectory" : true,
+        "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/ADR_repository",
+        "items" : {
+          "ADRS" : {
+            "fileName" : "ADRS",
+            "name" : "ADRS",
+            "isDirectory" : true,
+            "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/ADR_repository/ADRS",
+            "items" : {
+              "adr-001" : {
+                "fileName" : "adr-001.md",
+                "name" : "adr-001",
+                "extension" : "md",
+                "isDirectory" : false,
+                "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/ADR_repository/ADRS/adr-001.md",
+                "vars" : {
+                  "creator" : {
+                    "name" : "creator",
+                    "value" : "Igor"
+                  },
+                  "code" : {
+                    "name" : "code",
+                    "value" : "ADR-001"
+                  },
+                  "name" : {
+                    "name" : "name",
+                    "value" : "My first ADR"
+                  },
+                  "resolution" : {
+                    "name" : "resolution",
+                    "value" : "ACCEPTED"
+                  }
+                }
+              },
+              "adr-002" : {
+                "fileName" : "adr-002.md",
+                "name" : "adr-002",
+                "extension" : "md",
+                "isDirectory" : false,
+                "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/ADR_repository/ADRS/adr-002.md",
+                "vars" : {
+                  "creator" : {
+                    "name" : "creator",
+                    "value" : "Igor"
+                  },
+                  "code" : {
+                    "name" : "code",
+                    "value" : "ADR-002"
+                  },
+                  "name" : {
+                    "name" : "name",
+                    "value" : "My second ADR"
+                  },
+                  "resolution" : {
+                    "name" : "resolution",
+                    "value" : "NEW"
+                  }
+                }
+              },
+              "adr-003" : {
+                "fileName" : "adr-003.md",
+                "name" : "adr-003",
+                "extension" : "md",
+                "isDirectory" : false,
+                "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/ADR_repository/ADRS/adr-003.md",
+                "vars" : {
+                  "creator" : {
+                    "name" : "creator",
+                    "value" : "Igor"
+                  },
+                  "code" : {
+                    "name" : "code",
+                    "value" : "ADR-003"
+                  },
+                  "name" : {
+                    "name" : "name",
+                    "value" : "My 3rd ADR"
+                  },
+                  "resolution" : {
+                    "name" : "resolution",
+                    "value" : "REJECTED"
+                  }
+                }
+              },
+              "adr-004" : {
+                "fileName" : "adr-004.md",
+                "name" : "adr-004",
+                "extension" : "md",
+                "isDirectory" : false,
+                "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/ADR_repository/ADRS/adr-004.md",
+                "vars" : {
+                  "creator" : {
+                    "name" : "creator",
+                    "value" : "Igor"
+                  },
+                  "code" : {
+                    "name" : "code",
+                    "value" : "ADR-004"
+                  },
+                  "name" : {
+                    "name" : "name",
+                    "value" : "My 4th ADR"
+                  },
+                  "resolution" : {
+                    "name" : "resolution",
+                    "value" : "NEW"
+                  }
+                }
+              },
+              "adr-005" : {
+                "fileName" : "adr-005.md",
+                "name" : "adr-005",
+                "extension" : "md",
+                "isDirectory" : false,
+                "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/ADR_repository/ADRS/adr-005.md",
+                "vars" : {
+                  "creator" : {
+                    "name" : "creator",
+                    "value" : "Igor"
+                  },
+                  "code" : {
+                    "name" : "code",
+                    "value" : "ADR-005"
+                  },
+                  "name" : {
+                    "name" : "name",
+                    "value" : "My 5th ADR"
+                  },
+                  "resolution" : {
+                    "name" : "resolution",
+                    "value" : "NEW"
+                  }
+                }
+              }
+            }
+          },
+          "adr_repository" : {
+            "fileName" : "adr_repository.md",
+            "name" : "adr_repository",
+            "extension" : "md",
+            "isDirectory" : false,
+            "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/ADR_repository/adr_repository.md"
+          }
+        }
+      },
+      "examples" : {
+        "fileName" : "examples",
+        "name" : "examples",
+        "isDirectory" : true,
+        "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/examples",
+        "items" : {
+          "e1" : {
+            "fileName" : "e1.md",
+            "name" : "e1",
+            "extension" : "md",
+            "isDirectory" : false,
+            "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/examples/e1.md",
+            "vars" : {
+              "docName" : {
+                "name" : "docName",
+                "value" : "e1"
+              },
+              "creator" : {
+                "name" : "creator",
+                "value" : "Igor"
+              },
+              "or" : {
+                "name" : "or",
+                "value" : "ORR from e1"
+              },
+              "foo" : {
+                "name" : "foo",
+                "value" : "Foo from e1"
+              }
+            }
+          },
+          "e2" : {
+            "fileName" : "e2.md",
+            "name" : "e2",
+            "extension" : "md",
+            "isDirectory" : false,
+            "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/examples/e2.md",
+            "vars" : {
+              "docName" : {
+                "name" : "docName",
+                "value" : "e2"
+              },
+              "creator" : {
+                "name" : "creator",
+                "value" : "Ivan"
+              },
+              "or" : {
+                "name" : "or",
+                "value" : "or from e2"
+              },
+              "foo" : {
+                "name" : "foo",
+                "value" : "Foo from e2"
+              }
+            }
+          },
+          "e3" : {
+            "fileName" : "e3.md",
+            "name" : "e3",
+            "extension" : "md",
+            "isDirectory" : false,
+            "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/examples/e3.md",
+            "vars" : {
+              "docName" : {
+                "name" : "docName",
+                "value" : "e3"
+              },
+              "creator" : {
+                "name" : "creator",
+                "value" : "Alex"
+              },
+              "or" : {
+                "name" : "or",
+                "value" : "from 3"
+              },
+              "foo" : {
+                "name" : "foo",
+                "value" : "Foo from 3"
+              }
+            }
+          }
+        }
+      },
+      "root" : {
+        "fileName" : "root.md",
+        "name" : "root",
+        "extension" : "md",
+        "isDirectory" : false,
+        "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/root.md"
+      }
+    }
+  },
+  "templates" : {
+    "adr_template" : {
+      "name" : "adr_template",
+      "fileName" : "adr_template.md",
+      "extension" : "md",
+      "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/templates/adr_template.md",
+      "template" : "| {{this.vars.code}} | {{this.vars.name}} | {{this.vars.resolution}} |{{this.vars.creator}}  |"
+    },
+    "template2" : {
+      "name" : "template2",
+      "fileName" : "template2.md",
+      "extension" : "md",
+      "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/templates/template2.md",
+      "template" : "| {{this.vars.docName}}  | {{this.vars.or}}   | {{this.vars.creator}}  |"
+    },
+    "template3" : {
+      "name" : "template3",
+      "fileName" : "template3.md",
+      "extension" : "md",
+      "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/templates/template3.md",
+      "template" : "## {{this.vars.docName}}\n\nThis doc was created by {{this.vars.creator}} with ORR: {{this.vars.or}}\n\n------ "
+    },
+    "template1" : {
+      "name" : "template1",
+      "fileName" : "template1.md",
+      "extension" : "md",
+      "path" : "/Users/igorkosarev/IdeaProjects/plaindocpreprocessor/input/templates/template1.md",
+      "template" : "| {{this.vars.foo}}  | {{this.vars.or}}   | {{this.vars.creator}}  |"
+    }
+  }
+}
